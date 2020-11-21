@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/amongus.png</file>
+        <file>imagenes/donalPNG.png</file>
+        <file>imagenes/PACMAN.png</file>
+        <file>imagenes/PC Computer - Among Us - Cafeteria Skeld.png</file>
+    </qresource>
+</RCC>
